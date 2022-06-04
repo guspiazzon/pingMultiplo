@@ -1,0 +1,4 @@
+www.google.com
+ge.globo.com
+8.8.8.8
+192.168.0.1
